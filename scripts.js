@@ -15,27 +15,27 @@ const navButtons = {
 
 const newsData = [
     {
-        title: 'News Title 1 News Title 1 News Title 1 News Title 1',
-        desc: 'News description for the first item goes here.',
-        date: 'Date: YYYY-MM-DD',
-        img: 'https://www.itworx.com/wp-content/uploads/2024/04/3-uai-1080x1080.png',
+        title: 'Lorem ipsum dolor sit amet consectetur amet !!', 
+        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium labore cumque quisnihil harum, veniam dolores autem magni a ipsam.',
+        date: '10 Apr 2024',
+        img: 'https://t4.ftcdn.net/jpg/06/23/66/03/360_F_623660368_MGRElbKnwsyXi41CIS5hjBLvEG6ffxK8.webp',
     },
     {
         title: 'News Title 2',
-        desc: 'News description for the second item goes here.',
-        date: 'Date: YYYY-MM-DD',
-        img: 'https://scontent.fcai21-4.fna.fbcdn.net/v/t1.6435-9/70153198_10157194994225236_4869797532688973824_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFmWL-XVMg6pv_UH5XVZaG5A33trcAtYQoDfe2twC1hCrDPs59SEewyTpCQfQu3B2p4UR5oCIJYffVmTbP1qqn7&_nc_ohc=P-08bJ1OsyoAb63XdVz&_nc_ht=scontent.fcai21-4.fna&oh=00_AfCpWpS6S69fHDQ4FVUGQ533D8UBLS0cFDFrIVi6mMIoBw&oe=6656CB59',
+        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium labore cumque quisnihil harum, veniam dolores autem magni a ipsam.',
+        date: '20 May 2023',
+        img: 'https://t4.ftcdn.net/jpg/04/27/16/05/240_F_427160582_w0D5Z01pVaz32w7JzzNWTtE2n1VvvKmi.jpg',
     },
     {
         title: 'News Title 3',
-        desc: 'News description for the third item goes here.',
-        date: 'Date: YYYY-MM-DD',
+        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium labore cumque quisnihil harum, veniam dolores autem magni a ipsam.',
+        date: '13 Nov 2023',
         img: 'https://www.itworx.com/wp-content/uploads/2024/04/3-uai-1080x1080.png',
     },
     {
         title: 'News Title 4',
-        desc: 'News description for the fourth item goes here.',
-        date: 'Date: YYYY-MM-DD',
+        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium labore cumque quisnihil harum, veniam dolores autem magni a ipsam.',
+        date: '15 Apr 2024',
         img: 'https://www.itworx.com/wp-content/uploads/2024/04/3-uai-1080x1080.png',
     },
 ];
