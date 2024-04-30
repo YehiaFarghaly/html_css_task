@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="styles.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/4a4d537db2.js" crossorigin="anonymous"></script>
     <title>HTML Task</title>
 </head>
 
@@ -12,14 +13,18 @@
     <div class="container">
         <img id="news-img" src="image1.jpg" alt="News Image">
         <div class="news-container">
-            <button class="nav-btn left-btn">&lt;</button>
+            <button class="nav-btn left-btn">
+                <i class="fa-solid fa-arrow-left"></i>
+            </button>
             <div class="news-titles">
                 <div class="news-item selected" data-index="0">Lorem ipsum dolor sit amet consectetur amet !!</div>
-                <div class="news-item" data-index="1">News Title 2</div>
-                <div class="news-item" data-index="2">News Title 3</div>
-                <div class="news-item" data-index="3">News Title 4</div>
+                <div class="news-item" data-index="1">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum, impedit. Quasi, sit!</div>
+                <div class="news-item" data-index="2">Lorem ipsum dolor sit amet.</div>
+                <div class="news-item" data-index="3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati.</div>
             </div>
-            <button class="nav-btn right-btn">&gt;</button>
+            <button class="nav-btn right-btn">
+                <i class="fa-solid fa-arrow-right"></i>
+            </button>
         </div>
         <div class="news-display">
             <h2 id="news-title">Lorem ipsum dolor sit amet consectetur amet !!</h2>

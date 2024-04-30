@@ -18,25 +18,26 @@ const newsData = [
         title: 'Lorem ipsum dolor sit amet consectetur amet !!', 
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium labore cumque quisnihil harum, veniam dolores autem magni a ipsam.',
         date: '10 Apr 2024',
-        img: 'https://t4.ftcdn.net/jpg/06/23/66/03/360_F_623660368_MGRElbKnwsyXi41CIS5hjBLvEG6ffxK8.webp',
+        img: 'https://i.pinimg.com/originals/a4/96/c2/a496c2b6bc5d7cfe0e0674f6598c38ad.jpg',
     },
     {
-        title: 'News Title 2',
+        title: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum, impedit. Quasi, sit!',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium labore cumque quisnihil harum, veniam dolores autem magni a ipsam.',
         date: '20 May 2023',
-        img: 'https://t4.ftcdn.net/jpg/04/27/16/05/240_F_427160582_w0D5Z01pVaz32w7JzzNWTtE2n1VvvKmi.jpg',
+        img: 'https://w0.peakpx.com/wallpaper/42/267/HD-wallpaper-nature-scenery-scenery-nature.jpg',
     },
     {
-        title: 'News Title 3',
+        
+        title: 'Lorem ipsum dolor sit amet.',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium labore cumque quisnihil harum, veniam dolores autem magni a ipsam.',
         date: '13 Nov 2023',
         img: 'https://www.itworx.com/wp-content/uploads/2024/04/3-uai-1080x1080.png',
     },
     {
-        title: 'News Title 4',
+        title: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati.',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium labore cumque quisnihil harum, veniam dolores autem magni a ipsam.',
         date: '15 Apr 2024',
-        img: 'https://www.itworx.com/wp-content/uploads/2024/04/3-uai-1080x1080.png',
+        img: 'https://w0.peakpx.com/wallpaper/265/481/HD-wallpaper-nature.jpg',
     },
 ];
 
