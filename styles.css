@@ -108,7 +108,7 @@ body {
     top: 30%;
     transform: translateY(-50%);
     width: 40%;
-    margin-top: var(--DEFAULT_MARGIN);
+    margin-top: 5%;
 }
 
 
